@@ -11,7 +11,7 @@ Community (college) maintained list of Algorithms and Data Structures implementa
 
 | Algorithm | [Vishal](https://github.com/vishuvish) | Contributor 2 | Contributor 3 |
 |:--------------|:----------------:|:----------------:|:----------------:|
-| [Binary Search](https://www.geeksforgeeks.org/binary-search/)| [:white_check_mark:] | | |
+| [Binary Search](https://www.geeksforgeeks.org/binary-search/)| :white_check_mark: | | |
 
 
 ## Credits
