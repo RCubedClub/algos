@@ -1,0 +1,32 @@
+
+algos
+======
+An algorithms library which will ease the life of competitive programmers and developers.
+
+Installation
+------------
+
+Fast install:
+
+::
+
+    pip install algos
+
+For a manual install get this package:
+
+::
+
+    wget https://github.com/RCubedClub/algos/archive/master.zip
+    unzip master.zip
+    rm master.zip
+    cd algos-master
+
+Install the package:
+
+::
+
+    python setup.py install    
+
+
+    
+    
