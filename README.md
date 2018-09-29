@@ -9,9 +9,9 @@ Community (college) maintained list of Algorithms and Data Structures implementa
 ## Implemented Algorithms
 
 
-| Algorithm | [Vishal](https://github.com/vishuvish) | Contributor 2 | Contributor 3 |
+| Algorithm | Added/Last Modified Date | Contributor | Status |
 |:--------------|:----------------:|:----------------:|:----------------:|
-| [Binary Search](https://www.geeksforgeeks.org/binary-search/)| :white_check_mark: | | |
+| [Binary Search](https://www.geeksforgeeks.org/binary-search/)| 29th September' 2018 |   [ImGroot](https://github.com/vishuvish)    |   [:white_check_mark:](https://github.com/RCubedClub/algos/blob/master/binary_search.py)  |
 
 
 ## Credits
