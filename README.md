@@ -9,11 +9,11 @@ Community (college) maintained list of Algorithms and Data Structures implementa
 ## Implemented Algorithms
 
 
-| Algorithm | Added/Last Modified Date | Contributor | Status |
-|:-------------------------|:---------------------------:|:-----------------------------:|:-----------------:|
-|         [Binary Search - O(logn)](https://www.geeksforgeeks.org/binary-search/)         |       29th September' 2018        |       [ImGroot](https://github.com/vishuvish)     |   [:white_check_mark:](https://github.com/RCubedClub/algos/blob/master/search/binary_search.py)  |
-|         [Linear Search - O(n)](https://www.geeksforgeeks.org/linear-search/)         |       29th September' 2018        |       [ImGroot](https://github.com/vishuvish)     |   [:white_check_mark:](https://github.com/RCubedClub/algos/blob/master/search/linear_search.py)  |
-|         [Ceil Search - O(n)](https://www.geeksforgeeks.org/find-floor-ceil-unsorted-array/)         |       29th September' 2018        |       [ImGroot](https://github.com/vishuvish)     |   [:white_check_mark:](https://github.com/RCubedClub/algos/blob/master/search/ceil_search_linear.py)  |
+| Algorithm | Time Complexity | Added/Last Modified Date | Contributor | Status |
+|:-------------------------|:---------------------------:|:---------------------------:|:-----------------------------:|:-----------------:|
+|         [Binary Search](https://www.geeksforgeeks.org/binary-search/)         |   O(logn)     |       29th September' 2018        |       [ImGroot](https://github.com/vishuvish)     |   [:white_check_mark:](https://github.com/RCubedClub/algos/blob/master/search/binary_search.py)  |
+|         [Linear Search](https://www.geeksforgeeks.org/linear-search/)         |   O(n)     |       29th September' 2018        |       [ImGroot](https://github.com/vishuvish)     |   [:white_check_mark:](https://github.com/RCubedClub/algos/blob/master/search/linear_search.py)  |
+|         [Ceil Search](https://www.geeksforgeeks.org/find-floor-ceil-unsorted-array/)         |    O(n)     |       29th September' 2018        |       [ImGroot](https://github.com/vishuvish)     |   [:white_check_mark:](https://github.com/RCubedClub/algos/blob/master/search/ceil_search_linear.py)  |
 
 
 ## Credits
