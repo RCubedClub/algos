@@ -10,8 +10,9 @@ Community (college) maintained list of Algorithms and Data Structures implementa
 
 
 | Algorithm | Added/Last Modified Date | Contributor | Status |
-|:--------------|:----------------:|:----------------:|:----------------:|
-| [Binary Search](https://www.geeksforgeeks.org/binary-search/)| 29th September' 2018 |   [ImGroot](https://github.com/vishuvish)    |   [:white_check_mark:](https://github.com/RCubedClub/algos/blob/master/binary_search.py)  |
+|:-------------------------|:---------------------------:|:-----------------------------:|:-----------------:|
+| [Binary Search](https://www.geeksforgeeks.org/binary-search/)| 29th September' 2018 |   [ImGroot](https://github.com/vishuvish)    |   [:white_check_mark:](https://github.com/RCubedClub/algos/blob/master/search/binary_search.py)  |
+| [Linear Search](https://www.geeksforgeeks.org/linear-search/)| 29th September' 2018 |   [ImGroot](https://github.com/vishuvish)    |   [:white_check_mark:](https://github.com/RCubedClub/algos/blob/master/search/linear_search.py)  |
 
 
 ## Credits
