@@ -1,7 +1,9 @@
+from random import randint
+
 """
 Python code for linearly search x in arr[].  If x
 is present then return its  location,  otherwise
-return -1
+return None.
 """
 
 def iterative(array, element):
@@ -17,3 +19,18 @@ def iterative(array, element):
             return i
 
     return None
+
+
+def main():
+    array = [randint(1,10000) for _ in range(100)]
+    element = 13
+    result = iterative(array, element)
+    result = iterative(array, element)
+    if result is None:
+        print('Iterative Linear Search : Element not present in array')
+    else:
+        print('Iterative Linear Search : Element is present at index', result)
+
+
+if __name__ == '__main__':
+    main()
