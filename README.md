@@ -3,8 +3,13 @@
 Community (college) maintained list of Algorithms and Data Structures implementations in Python for Python PyPI.
 
 [![GitHub issues](https://img.shields.io/github/issues/RCubedClub/algos.svg)](https://github.com/RCubedClub/algos/issues)
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=102)](https://github.com/RCubedClub/algos)
+[![GitHub Stars](https://img.shields.io/github/stars/RCubedClub/algos.svg)]
+[![GitHub Forks](https://img.shields.io/github/forks/RCubedClub/algos.svg)]
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
+
+
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-200x33.png?v=103)](https://github.com/RCubedClub/algos)
+
 
 ## Implemented Algorithms
 
