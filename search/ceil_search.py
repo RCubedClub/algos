@@ -1,7 +1,10 @@
 from random import randint
 
 
-def recursive(arr, low, high, x):
+def recursive(arr, low, high, x, sort=False):
+
+    if sort:
+        arr.sort()
 
     """
     Perform Binary Search by Iterative Method.
