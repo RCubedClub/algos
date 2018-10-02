@@ -26,17 +26,37 @@ def iterative(array, element):
     return index
 
 
+def recursive(array, element, next_greater, low, index):
+
+    if array[low]==element:
+        return low
+
+    if array[low]>element:
+        if next_greater != min(next_greater, array[low]):
+            index = low
+        next_greater = min(next_greater, array[low])
+
+    if low==len(array)-1:
+        return index
+
+    return recursive(array, element, next_greater, low+1, index)
+
 def main():
     array = [randint(1,10000) for _ in range(100)]
-    # print(array)
+    print(array)
     element = randint(1,10000)
-    # print(element)
+    print(element)
     result = iterative(array, element)
     if result is None:
         print('Iterative Ceil Search : Element not present in array')
     else:
         print('Iterative Ceil Search : Element is present at index', result)
 
+    result = recursive(array, element, max(array)+1, 0, None)
+    if result is None:
+        print('Recursive Ceil Search : Element not present in array')
+    else:
+        print('Recursive Ceil Search : Element is present at index', result)
 
 if __name__ == '__main__':
     main()
