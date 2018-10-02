@@ -19,7 +19,7 @@ Community (college) maintained list of Algorithms and Data Structures implementa
 |         [Binary Search](https://www.geeksforgeeks.org/binary-search/)         |   O(logn)     |       29th September' 2018        |       [ImGroot](https://github.com/vishuvish)     |   [:white_check_mark:](https://github.com/RCubedClub/algos/blob/master/search/binary_search.py)  |
 |         [Linear Search](https://www.geeksforgeeks.org/linear-search/)         |   O(n)     |       29th September' 2018        |       [ImGroot](https://github.com/vishuvish)     |   [:white_check_mark:](https://github.com/RCubedClub/algos/blob/master/search/linear_search.py)  |
 |         [Ceil Search](https://www.geeksforgeeks.org/find-floor-ceil-unsorted-array/)         |    O(n)     |       29th September' 2018        |       [ImGroot](https://github.com/vishuvish)     |   [:white_check_mark:](https://github.com/RCubedClub/algos/blob/master/search/ceil_search_linear.py)  |
-
+|		[Optimized Ceil Search](https://www.geeksforgeeks.org/find-floor-ceil-unsorted-array/)         |   O(logn)     |       2nd October' 2018        |       [ImGroot](https://github.com/vishuvish)     |   [:white_check_mark:](https://github.com/RCubedClub/algos/blob/master/search/ceil_search.py)  |
 
 ## Credits
 
