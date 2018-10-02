@@ -27,6 +27,15 @@ def iterative(array, element):
 
 
 def recursive(array, element, next_greater, low, index):
+    """
+    Perform Linear Search by Recursive Method.
+    :param array: Iterable of elements.
+    :param next_greater: store the next greater element.
+    :param index: store the index number of the next greater element.
+    :param low: traversing variable of an array.
+    :param element: element to be searched.
+    :return: returns value of index of element (if found) else return None.
+    """
 
     if array[low]==element:
         return low
