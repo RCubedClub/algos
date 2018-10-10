@@ -14,14 +14,14 @@ Community (college) maintained list of Algorithms and Data Structures implementa
 ## Implemented Algorithms
 
 
-| Algorithm | Time Complexity | C++ | JavaScript | Python  |  Ruby |Status |
-|:-------------------------|:---------------------------:|:---------------------------:|:-----------------------------:|:-----------------:|:-----------------:|:-----------------:|
-|[Binary Search](https://www.geeksforgeeks.org/binary-search/)|O(logn)|||[ImGroot](https://github.com/vishuvish)||[:white_check_mark:](https://github.com/RCubedClub/algos/blob/master/Python/search/binary_search.py)|
-|[Linear Search](https://www.geeksforgeeks.org/linear-search/)|O(n)|||[ImGroot](https://github.com/vishuvish)||[:white_check_mark:](https://github.com/RCubedClub/algos/blob/master/Python/search/linear_search.py)|
-|[Ceil Search](https://www.geeksforgeeks.org/find-floor-ceil-unsorted-array/)|O(n)|||[ImGroot](https://github.com/vishuvish)||[:white_check_mark:](https://github.com/RCubedClub/algos/blob/master/Python/search/ceil_search_linear.py)|
-|[Optimized Ceil Search](https://www.geeksforgeeks.org/find-floor-ceil-unsorted-array/)|O(logn)|||[ImGroot](https://github.com/vishuvish)||[:white_check_mark:](https://github.com/RCubedClub/algos/blob/master/Python/search/ceil_search.py)|
-|[Floor Search](https://www.geeksforgeeks.org/find-floor-ceil-unsorted-array/)|O(n)|||[ImGroot](https://github.com/vishuvish)||[:white_check_mark:](https://github.com/RCubedClub/algos/blob/master/Python/search/floor_search_linear.py)|
-|[Fibonaaci Number](https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/)|O(n)|||[ImGroot](https://github.com/vishuvish)||[:white_check_mark:](https://github.com/RCubedClub/algos/blob/master/Python/mathematics/fibonacci_numbers.py)|
+| Algorithm | Time Complexity | C++ | JavaScript | Python  |  Ruby | Java | Status |
+|:----------|:---------------:|:---:|:----------:|:-------:|:-----:|:----:|--------|
+|[Binary Search](https://www.geeksforgeeks.org/binary-search/)|O(logn)|||[ImGroot](https://github.com/vishuvish)|||[:white_check_mark:](https://github.com/RCubedClub/algos/blob/master/Python/search/binary_search.py)|
+|[Linear Search](https://www.geeksforgeeks.org/linear-search/)|O(n)|||[ImGroot](https://github.com/vishuvish)|||[:white_check_mark:](https://github.com/RCubedClub/algos/blob/master/Python/search/linear_search.py)|
+|[Ceil Search](https://www.geeksforgeeks.org/find-floor-ceil-unsorted-array/)|O(n)|||[ImGroot](https://github.com/vishuvish)|||[:white_check_mark:](https://github.com/RCubedClub/algos/blob/master/Python/search/ceil_search_linear.py)|
+|[Optimized Ceil Search](https://www.geeksforgeeks.org/find-floor-ceil-unsorted-array/)|O(logn)|||[ImGroot](https://github.com/vishuvish)|||[:white_check_mark:](https://github.com/RCubedClub/algos/blob/master/Python/search/ceil_search.py)|
+|[Floor Search](https://www.geeksforgeeks.org/find-floor-ceil-unsorted-array/)|O(n)|||[ImGroot](https://github.com/vishuvish)|||[:white_check_mark:](https://github.com/RCubedClub/algos/blob/master/Python/search/floor_search_linear.py)|
+|[Fibonaaci Number](https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/)|O(n)|||[ImGroot](https://github.com/vishuvish)|||[:white_check_mark:](https://github.com/RCubedClub/algos/blob/master/Python/mathematics/fibonacci_numbers.py)|
 
 ## Credits
 
