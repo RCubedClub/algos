@@ -12,7 +12,8 @@ Community (college) maintained list of Algorithms and Data Structures implementa
 
 
 ## Implemented Algorithms
-
+:sunglasses: = Contributor <br>
+:octocat: = Source Code
 
 | Algorithm | Topic | Time Complexity | C++ | JavaScript | Python  |  Ruby |
 |:----------:|:-----:|:---------------:|:---:|:----------:|:-------:|:------:|
@@ -25,10 +26,11 @@ Community (college) maintained list of Algorithms and Data Structures implementa
 
 ## Credits
 
-Idea by [@:sunglasses: - Vishal Agrawal](https://github.com/vishuvish)
+Idea by [@Vishal Agrawal](https://github.com/vishuvish)
 
 
 ## Contributors
 
 * [Vishal Agrawal](https://github.com/vishuvish)
 * [Tushar Singh](https://github.com/rickysingh15)
+* [Akash Giri](https://github.com/akashgiricse)
