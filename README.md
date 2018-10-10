@@ -15,9 +15,8 @@ Community (college) maintained list of Algorithms and Data Structures implementa
 
 
 | Algorithm | Topic | Time Complexity | C++ | JavaScript | Python  |  Ruby |
-|:----------|:-----:|:---------------:|:---:|:----------:|:-------:|------:|
-
-| [Binary Search](https://www.geeksforgeeks.org/binary-search/) | Searching | O(logn) | | | [:sunglasses:](https://github.com/vishuvish) [:octocat:](https://github.com/RCubedClub/algos/blob/master/Python/search/binary_search.py) | | 
+|:----------:|:-----:|:---------------:|:---:|:----------:|:-------:|:------:|
+| [Binary Search](https://www.geeksforgeeks.org/binary-search/) | Searching | O(logn) | | | [:sunglasses:](https://github.com/vishuvish) [:octocat:](https://github.com/RCubedClub/algos/blob/master/Python/search/binary_search.py) | |
 | [Linear Search](https://www.geeksforgeeks.org/linear-search/) | Searching | O(n) | | | [:sunglasses:](https://github.com/vishuvish) [:octocat:](https://github.com/RCubedClub/algos/blob/master/Python/search/linear_search.py) | |
 | [Ceil Search](https://www.geeksforgeeks.org/find-floor-ceil-unsorted-array/) | Searching | O(n)| | | [:sunglasses:](https://github.com/vishuvish) [:octocat:](https://github.com/RCubedClub/algos/blob/master/Python/search/ceil_search_linear.py) | |
 | [Optimized Ceil Search](https://www.geeksforgeeks.org/find-floor-ceil-unsorted-array/) | Searching | O(logn) | | | [:sunglasses:](https://github.com/vishuvish) [:octocat:](https://github.com/RCubedClub/algos/blob/master/Python/search/ceil_search.py) | |
