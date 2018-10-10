@@ -12,8 +12,8 @@ Community (college) maintained list of Algorithms and Data Structures implementa
 
 
 ## Implemented Algorithms
-:sunglasses: = Contributor <br>
-:octocat: = Source Code
+:sunglasses: - Contributor /
+:octocat: - Source Code
 
 | Algorithm | Topic | Time Complexity | C++ | JavaScript | Python  |  Ruby |
 |:----------:|:-----:|:---------------:|:---:|:----------:|:-------:|:------:|
