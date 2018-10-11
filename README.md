@@ -23,6 +23,7 @@ Community (college) maintained list of Algorithms and Data Structures implementa
 | [Optimized Ceil Search](https://www.geeksforgeeks.org/find-floor-ceil-unsorted-array/) | Searching | O(logn) | | | [:sunglasses:](https://github.com/vishuvish) [:octocat:](https://github.com/RCubedClub/algos/blob/master/Python/search/ceil_search.py) | |
 | [Floor Search](https://www.geeksforgeeks.org/find-floor-ceil-unsorted-array/) | Searching | O(n) | | | [:sunglasses:](https://github.com/vishuvish) [:octocat:](https://github.com/RCubedClub/algos/blob/master/Python/search/floor_search_linear.py) | |
 | [Fibonacci Number](https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/) | Mathematics | O(n) | | | [:sunglasses:](https://github.com/vishuvish) [:octocat:](https://github.com/RCubedClub/algos/blob/master/Python/mathematics/fibonacci_numbers.py) | |
+| [Sieve of Eratosthenes](https://www.geeksforgeeks.org/sieve-of-eratosthenes/) | Mathematics | O(sqrt(n)loglog(n)) | | | [:sunglasses:](https://github.com/vishuvish) [:octocat:](https://github.com/RCubedClub/algos/blob/master/Python/mathematics/sieve.py) | |
 
 ## Credits
 
