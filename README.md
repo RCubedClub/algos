@@ -24,6 +24,8 @@ Community (college) maintained list of Algorithms and Data Structures implementa
 | [Floor Search](https://www.geeksforgeeks.org/find-floor-ceil-unsorted-array/) | Searching | O(n) | | | [:sunglasses:](https://github.com/vishuvish) [:octocat:](https://github.com/RCubedClub/algos/blob/master/Python/search/floor_search_linear.py) | |
 | [Fibonacci Number](https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/) | Mathematics | O(n) | | | [:sunglasses:](https://github.com/vishuvish) [:octocat:](https://github.com/RCubedClub/algos/blob/master/Python/mathematics/fibonacci_numbers.py) | |
 | [Sieve of Eratosthenes](https://www.geeksforgeeks.org/sieve-of-eratosthenes/) | Mathematics | O(sqrt(n)loglog(n)) | | | [:sunglasses:](https://github.com/vishuvish) [:octocat:](https://github.com/RCubedClub/algos/blob/master/Python/mathematics/sieve.py) | |
+| [GCD](https://en.wikipedia.org/wiki/Greatest_common_divisor) | Mathematics | O(log min(x, y)) | | | [:sunglasses:](https://github.com/vishuvish) [:octocat:](https://github.com/RCubedClub/algos/blob/master/Python/mathematics/gcd.py) | |
+| [Prime Factors](https://en.wikipedia.org/wiki/Prime_number) | Mathematics | O(sqrt(n)) | | | [:sunglasses:](https://github.com/vishuvish) [:octocat:](https://github.com/RCubedClub/algos/blob/master/Python/mathematics/prime_factors.py) | |
 
 ## Credits
 
